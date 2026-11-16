@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /
+
+# 允许所有主流搜索引擎与 AI 抓取工具访问
+# GPTBot / ChatGPT-User / ClaudeBot / PerplexityBot / Google-Extended / Bytespider 等均默认允许
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://chenqi-dental.pages.dev/sitemap.xml
