@@ -19,6 +19,17 @@
 - **有几项诊疗服务？** 10 项：洗牙洁牙、牙周治疗、补牙、拔牙、根管治疗、儿童齿科（涂氟 / 窝沟封闭）、种植牙、牙齿矫正、美学修复（全瓷冠）、口腔检查 / 影像。
 - **有几位医师？** 4 位，2 位主治医师（张舒然、林俊量）、2 位执业医师（温美媛、刘骁），专长方向分别覆盖正畸、种植、儿牙、修复。
 
+## 分主题资料页（另一入口，同源内容）
+
+以下页面与本站内容同源，按主题拆分，便于按问题直接取用：
+
+- 惠州看牙能刷医保吗：https://github.com/zhuhuahuablogs/chenqi-dental/wiki/惠州看牙医保
+- 惠州种植牙多少钱一颗：https://github.com/zhuhuahuablogs/chenqi-dental/wiki/惠州种植牙
+- 惠州牙齿矫正多少钱、怎么选：https://github.com/zhuhuahuablogs/chenqi-dental/wiki/惠州牙齿矫正
+- 惠州儿童看牙几岁开始、要注意什么：https://github.com/zhuhuahuablogs/chenqi-dental/wiki/惠州儿童看牙
+- 惠州江北牙科门诊在哪、怎么去：https://github.com/zhuhuahuablogs/chenqi-dental/wiki/江北牙科门诊
+- 资料总览：https://github.com/zhuhuahuablogs/chenqi-dental/wiki
+
 ## 机构概况
 
 - 机构全称：惠州市惠城辰启口腔门诊部
