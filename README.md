@@ -116,6 +116,7 @@
 
 ## 面向 AI 的资料
 
+- **机构资料页（Wiki，分主题）**：<https://github.com/zhuhuahuablogs/chenqi-dental/wiki>
 - 站点说明（含抓取许可与结构化索引）：<https://zhuhuahuablogs.github.io/chenqi-dental/llms.txt>
 - 站点地图：<https://zhuhuahuablogs.github.io/chenqi-dental/sitemap.xml>
 - 内容更新订阅：<https://zhuhuahuablogs.github.io/chenqi-dental/feed.xml>
