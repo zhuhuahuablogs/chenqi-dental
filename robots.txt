@@ -22,4 +22,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://chenqi-dental.pages.dev/sitemap.xml
+Sitemap: https://zhuhuahuablogs.github.io/chenqi-dental/sitemap.xml
