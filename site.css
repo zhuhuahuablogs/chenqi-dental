@@ -2,7 +2,7 @@
 /* =====================================================================
    辰启口腔 · 全站唯一样式表   assets/site.css
    注入方式：_refactor/build.py 把 9 页的 <style> 换成
-            <link rel="stylesheet" href="/assets/site.css">
+            <link rel="stylesheet" href="assets/site.css">
    分段锚点：1 tokens / 2 base / 3 components / 4 utilities
    硬约束：断点只有 960px 与 680px 两个值；0 圆角（唯一例外
           .cred-head .dot）；0 阴影 / 0 渐变 / 0 图片 / 0 外部字体；
